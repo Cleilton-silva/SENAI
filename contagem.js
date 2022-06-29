@@ -1,4 +1,4 @@
-let  listaPessoas  =  [ "Pedrinho" ,  "Rubens" ,  "Sóstenes" ,  "Tony" ,  "Ricardo" ,  "Patricia" ,  "Francieli" ]
+let  listaPessoas  =  [ "Robson" ,  "Tiago" ,  "Lia" ,  "Ygor" ,  "Ryan" ,  "Pedro" ,  "Juliana" ]
 
 for ( let  numero  =  0 ;  numero  <  listaPessoas . length ;  numero ++ )  {
     if ( numero  ==  0 )  {
